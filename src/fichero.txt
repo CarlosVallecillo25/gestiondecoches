@@ -1,0 +1,3 @@
+Marca: Volkswagen, Modelo: Golf, Año: 2023, Precio: $20000.0
+Marca: Seat, Modelo: Ibiza, Año: 2023, Precio: $20000.0
+Marca: BMW, Modelo: i4, Año: 2023, Precio: $20000.0
